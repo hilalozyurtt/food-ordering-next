@@ -19,7 +19,7 @@ const Header = () => {
             <a href='#'><FaUserAlt/></a>
             <a href='#'><FaShoppingCart/></a>
             <a href='#'><FaSearch/></a>
-            <a href='#'><button className='btn-primary'> Order Online </button></a>
+            <a href='#'><button className='btn-primary'> Order Online </button></a> 
         </div>
       </div>
     </div>
