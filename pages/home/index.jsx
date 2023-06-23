@@ -1,10 +1,12 @@
 import Carousel from '@/components/Carousel'
+import { Campaigns } from '@/components/ui/Campaigns'
 import React from 'react'
 
 const Index = () => {
   return (
-    <div className="relative">
+    <div>
       <Carousel/>
+      <Campaigns/>
     </div>
   )
 }
