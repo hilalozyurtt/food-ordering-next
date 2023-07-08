@@ -19,7 +19,7 @@ export const About = () => {
                   anything embarrassing hidden in the middle of text. All
                 </p>
                 <button className="btn-primary mt-14"> Read More </button>
-            </div>
+            </div> 
         </div>
     </div>
   )

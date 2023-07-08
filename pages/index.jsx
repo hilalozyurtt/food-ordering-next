@@ -1,4 +1,5 @@
 import Carousel from '@/components/Carousel'
+import Input from '@/components/form/Input'
 import Header from '@/components/layout/Header'
 import Head from 'next/head'
 import Home from './home'
