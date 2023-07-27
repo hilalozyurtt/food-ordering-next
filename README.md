@@ -1,9 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-<img width="1470" alt="Screenshot 2023-07-28 at 00 14 19" src="https://github.com/hilalozyurtt/food-ordering-next/assets/46528719/f89d17a3-06ca-45a6-929b-c742d3c6d988">
-
-
 
 First, run the development server:
 
